@@ -1,5 +1,5 @@
-FROM ubuntu:18.04
-LABEL maintainer="Jeff Geerling"
+FROM ubuntu:latest
+LABEL maintainer="Trifork Public A/S"
 
 ENV DEBIAN_FRONTEND noninteractive
 
