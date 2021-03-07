@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:focal
 LABEL maintainer="Trifork Public A/S"
 
 ENV DEBIAN_FRONTEND noninteractive
